@@ -1,0 +1,198 @@
+body{
+  background-color: #0A043C;
+  text-align: center;
+}
+
+.logo {
+  width: 200px;
+  height: 200px;
+  left: 50%;
+  margin-bottom: 100px;
+  margin-top: 50px;
+  margin-left: -215px;
+}
+
+.personagens-foto {
+  margin-top: -18%;
+}
+
+.chico {
+  width: 130px;
+  height: 160px;
+  margin-bottom: -20px;
+}
+
+.beatrice {
+  width: 120px;
+  height: 120px;
+  margin-left: -57%;
+}
+
+.dayradus {
+  width: 120px;
+  height: 120px;
+}
+
+.vincent {
+  width: 120px;
+  height: 120px;
+}
+
+.Informacoes {
+  color: white;
+  background-color: transparent;
+border: none;
+border-bottom: 2px solid black;
+text-align: center;
+}
+
+.Informacoes-1 {
+  color: white;
+  background-color: transparent;
+border: none;
+text-align: center;
+}
+
+.Texto {
+  width: 500px;
+  height: 200px;
+  margin: auto;
+}
+
+.titulo{
+  text-align: center;
+  color: white;
+  display: inline-block;
+  margin-top: -50px;
+  margin-bottom: -40px;
+}
+
+.titulo2{
+  text-align: center;
+}
+
+.titulo-tabela {
+  color: white;
+}
+
+table {
+  border: -2px;
+  box-shadow: 0 0 10px white;
+}
+
+thead {
+ border: solid 20px;
+}
+
+h1 {
+  font-family: 'Anton', sans-serif;
+}
+
+h3 {
+  color: white
+}
+
+th {
+  color: white;
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+  border-bottom: solid 2px white;
+}
+
+.right-cell {
+    border-left: 2px solid white;
+}
+
+.left-cell {
+    border-right: 2px solid white;
+}
+
+td {
+  color: white;
+  text-align: center;
+  padding: 0 10px 0 10px;
+}
+
+.ultimo {
+  text-align: left;
+  background-color: transparent;
+}
+
+.Atributos-Pericias {
+  display: flex;
+  flex-flow: row;
+}
+
+.container-1{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 100px;
+}
+.container-1 {
+  border: 50px;
+  margin-top: 10%;
+}
+
+.container-2 {
+  margin-left: -100px;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px
+}
+
+.container-3 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5%;
+}
+
+.Personagem,.Medos,.Backstory {
+  width: 400px;
+}
+
+.Medos {
+  width: 500px;
+  height: 100px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.Atributos {
+width: 500px;
+height: 100px;
+text-align: center;
+margin-top: 140px;
+margin-left: 152px;
+}
+
+.atributos {
+  width: 400px;
+  height: 100px;
+}
+
+.Personagem {
+width: 400px;
+height: 100px;
+margin-bottom: 50px;
+text-align: center;
+margin-top: 132px;
+margin-left: 20px;
+}
+
+.Backstory {
+  width: 500px;
+  height: 100px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.Pericias {
+  margin-top: 100px;
+}
+
+.Dado {
+  margin-top: 270px;
+  color: white;
+  text-align: center;
+}
