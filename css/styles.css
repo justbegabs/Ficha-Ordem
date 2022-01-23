@@ -84,6 +84,10 @@ thead {
  border: solid 20px;
 }
 
+h1 {
+  font-family: 'Anton', sans-serif;
+}
+
 h3 {
   color: white
 }
@@ -159,7 +163,7 @@ width: 500px;
 height: 100px;
 text-align: center;
 margin-top: 140px;
-margin-left: 132px;
+margin-left: 152px;
 }
 
 .atributos {
@@ -172,7 +176,7 @@ width: 400px;
 height: 100px;
 margin-bottom: 50px;
 text-align: center;
-margin-top: 120px;
+margin-top: 132px;
 margin-left: 20px;
 }
 
